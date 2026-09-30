@@ -19,6 +19,20 @@
       ],
       "ast": [
         "aggregate/ast/78ef873cddcac876c8a1d12e8a8653befa0646ab/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/78ef873cddcac876c8a1d12e8a8653befa0646ab.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "esbuild",
+          "ecosystem": "NPM",
+          "version": "0.28.1",
+          "githubOrg": "evanw",
+          "githubRepo": "esbuild",
+          "githubCommit": "bb9db84c02433fbe37b3509f53f9f3e3cc48725e",
+          "githubTag": "v0.28.1",
+          "githubUrl": "git+https://github.com/evanw/esbuild.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
