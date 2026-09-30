@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-desktop-accent-picker/commit/78ef873cddcac876c8a1d12e8a8653befa0646ab",
       "git:hexsha": "78ef873cddcac876c8a1d12e8a8653befa0646ab",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-09-30T07:11:39.808046+00:00"
     }
   ]
 }

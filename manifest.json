@@ -33,7 +33,9 @@
           "githubUrl": "git+https://github.com/evanw/esbuild.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/78ef873cddcac876c8a1d12e8a8653befa0646ab/chunk-001.nq.gz",
+      "dep": "dep/78ef873cddcac876c8a1d12e8a8653befa0646ab.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
