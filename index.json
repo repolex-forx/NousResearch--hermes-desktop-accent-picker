@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-desktop-accent-picker",
+  "versions": [
+    {
+      "commit": "78ef873cddcac876c8a1d12e8a8653befa0646ab",
+      "tag": "main",
+      "parsed_at": "2026-09-30T07:11:39.809883+00:00"
+    }
+  ]
+}
